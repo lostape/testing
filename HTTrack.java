@@ -8,8 +8,6 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
-//hello there world I am sean Mikalson
-
 
 public class HTTrack {
 	
